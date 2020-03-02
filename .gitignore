@@ -8,9 +8,9 @@ python/*$py.class
 
 # Distribution / packaging
 .Python
-build/
-develop-eggs/
-dist/
+python/build/
+python/develop-eggs/
+python/dist/
 downloads/
 eggs/
 .eggs/
@@ -22,7 +22,7 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-*.egg-info/
+python/*.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
@@ -130,3 +130,7 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+# R files
+r/.Rhistory
+

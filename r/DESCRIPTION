@@ -2,8 +2,8 @@ Package: Regr2STest
 Title: Regression Two Sample Test
 Version: 0.1
 Authors@R: person("Niccolo", "Dalmasso", email = "ndalmass@andrew.cmu.edu", role = c("aut", "cre"))
-Description: Compute the regression two sample test using probabilistic classifiers.
-URL: https://github.com/Mr8ND/Emulator-Validation-LFI
+Description: Computes the regression two sample test using probabilistic classifiers.
+URL: https://github.com/Mr8ND/Emulator-Validation-LFI/tree/master/r
 BugReports: https://github.com/Mr8ND/Emulator-Validation-LFI/issues
 Depends: R (>= 3.4.0),
 License: MIT + file LICENSE
