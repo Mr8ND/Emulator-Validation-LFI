@@ -26,6 +26,8 @@ python/*.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
+python/tests/__pycache__/
+python/*.pyc
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
